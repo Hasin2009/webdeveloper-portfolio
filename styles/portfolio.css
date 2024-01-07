@@ -117,3 +117,10 @@ main{
 .about-info{
   text-align: center;
 }
+
+.about-info-container h4{
+  font-weight: normal;
+}
+.about-info-container  p{
+  font-weight: bold;
+}
